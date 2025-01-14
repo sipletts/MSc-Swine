@@ -1,2 +1,2 @@
-## GIT woekshop
+## GIT workshop
 Using swine msc project
