@@ -13,7 +13,10 @@ WIP: using for GIT workshop example project
 4. Plot :disappointed_relieved:
 
 Example output
+
 ![Rplot](https://github.com/user-attachments/assets/857be183-2f56-4ac3-a6ff-618a62c4ff0b)
 
 Good luck!
+
+![piggy](https://github.com/sipletts/MSc-Swine/blob/main/docs/piggy.png)
 
