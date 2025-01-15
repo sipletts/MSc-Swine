@@ -6,7 +6,7 @@
 WIP: using for GIT workshop example project
 
 
-# How to use
+### How to use
 1. Install packages
 
 ```{r eval = FALSE}
