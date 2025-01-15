@@ -1,2 +1,2 @@
-## GIT workshop
-Using swine msc project
+## MSc Project: Swine Influenza
+WIP: using for GIT workshop example project
