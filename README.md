@@ -16,7 +16,7 @@ install.packages("deSolve")
 ```
    
 3. Adjust parameters as desired
-4. Run spillover_model function
+4. Run spillover_model function & rest of the script
 5. Plot :disappointed_relieved:
 
 Example output
