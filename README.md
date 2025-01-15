@@ -6,7 +6,7 @@
 WIP: using for GIT workshop example project
 
 
-### How to use
+### How to use it
 
 1. Use final.model.R in R folder
 2. Install packages
@@ -27,4 +27,6 @@ Good luck!
 
 ![dog](https://github.com/sipletts/MSc-Swine/blob/main/docs/dog.jpg)
 
+
 ![image](https://github.com/user-attachments/assets/52e6bac0-c368-47d6-a8e0-d9b8f6692cd0)
+
