@@ -7,15 +7,17 @@ WIP: using for GIT workshop example project
 
 
 ### How to use
-1. Install packages
+
+1. Use final.model.R in R folder
+2. Install packages
 
 ```{r eval = FALSE}
 install.packages("deSolve")
 ```
    
-2. Adjust parameters as desired
-3. Run spillover_model function
-4. Plot :disappointed_relieved:
+3. Adjust parameters as desired
+4. Run spillover_model function
+5. Plot :disappointed_relieved:
 
 Example output
 
