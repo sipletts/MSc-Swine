@@ -6,7 +6,7 @@
 WIP: using for GIT workshop example project
 
 
-#How to use
+# How to use
 1. Install packages
 2. Adjust parameters as desired
 3. Run spillover_model function
@@ -18,5 +18,5 @@ Example output
 
 Good luck!
 
-![piggy](https://github.com/sipletts/MSc-Swine/blob/main/docs/piggy.png)
+![piggy](https://github.com/sipletts/MSc-Swine/blob/main/docs/pig.png)
 
