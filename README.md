@@ -1,8 +1,8 @@
 <!-- badges: start -->
-<img src="{https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white}" />
+![Badge Name](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 <!-- badges: end -->
 
-## MSc Project: Swine Influenza
+## MSc Project: Swine Influenza :pig:
 WIP: using for GIT workshop example project
 
 
