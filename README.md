@@ -8,6 +8,11 @@ WIP: using for GIT workshop example project
 
 # How to use
 1. Install packages
+
+```{r eval = FALSE}
+install.packages("deSolve")
+```
+   
 2. Adjust parameters as desired
 3. Run spillover_model function
 4. Plot :disappointed_relieved:
