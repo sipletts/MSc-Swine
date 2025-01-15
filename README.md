@@ -23,5 +23,5 @@ Example output
 
 Good luck!
 
-![piggy](https://github.com/sipletts/MSc-Swine/blob/main/docs/pig.png)
+![dog](https://github.com/sipletts/MSc-Swine/blob/main/docs/dog.jpg)
 
